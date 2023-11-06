@@ -5,16 +5,14 @@
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
 <h2 align="center">- 👨‍💻 ¿Que hago?</h2>
- <p>actualmente me dedico a realizar proyectos para avanzar en mi formacion como programador </p>
+ <p>Actualmente me dedico a realizar proyectos para avanzar en mi formacion como programador </p>
 <br/>
 <h2 align="center">-💬¿A quien me dirigo?</h2>
  <p>Mi objetivo principal es impactar en el mundo de la programación. Disfruto mucho programar y aprender dia a dia</p>
 <p align="left"> <a href ="https://github.com/ryo-ma/github-profile-tropic">Todos mis proyectos están disponibles aqui </a></p>
 
-
-- 📫 Cómo comunicarse conmigo **fgarciamatar@gmail.com**
-
-<p align="left"> <a href ="[https://github.com/ryo-ma/github-profile-tropic](https://docs.google.com/document/d/e/2PACX-1vQdIL248kwyp6G4VVMjbVTErWQpGckdtidefTsF9CpPDTpfox0sF44p8vTOcG97lmOXZQtnAC0-FFvl/pub)">📄 Mi CV</a></p>
+<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-tropic">Todos mis proyectos están disponibles aqui </a></p>
+<p align="left"> <a href ="https://docs.google.com/document/d/e/2PACX-1vQdIL248kwyp6G4VVMjbVTErWQpGckdtidefTsF9CpPDTpfox0sF44p8vTOcG97lmOXZQtnAC0-FFvl/pub">📄 Mi CV</a></p>
 
 <br/>  
 
