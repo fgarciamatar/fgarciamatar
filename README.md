@@ -6,11 +6,13 @@
 
 <p align="left"> <a href ="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=fgarciamatar" alt="fgarciamatar" /></a> </p>
 
-- 👨‍💻 ¿Que hago? **actualmente me dedico a realizar proyectos para avanzar en mi formacion como programador**
+<h2 align="center">- 👨‍💻 ¿Que hago?</h2>
+ <p>actualmente me dedico a realizar proyectos para avanzar en mi formacion como programador </p>
+<br/>
+<h2 align="center">-💬¿A quien me dirigo?</h2>
+ <p>Mi objetivo principal es impactar en el mundo de la programación. Disfruto mucho programar y aprender dia a dia</p>
 
-- 💬¿A quien me dirigo? **Mi objetivo principal es impactar en el mundo de la programación. Disfruto mucho programar y aprender dia a dia .**
-
-- Todos mis proyectos están disponibles en [WWW.google .com](WWW.google .com)
+- Todos mis proyectos están disponibles en 
 
 - 📫 Cómo comunicarse conmigo **fgarciamatar@gmail.com**
 
@@ -63,13 +65,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/fgarciamatar#un-apasionado-desarrollador-frontend-de-argentina" target="_blank">
+<a href="https://github.com/fgarciamatar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/frangarciamatar" target="_blank">
+<a href="https://linkedin.com/in/frangarciamatar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/fran_garciamatar/" target="_blank">
+<a href="https://instagram.com/fran_garciamatar" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
