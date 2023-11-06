@@ -14,7 +14,7 @@
 
 - 📫 Cómo comunicarse conmigo **fgarciamatar@gmail.com**
 
-<p align="left">📄 Conozca mis experiencias <a href ="[https://github.com/ryo-ma/github-profile-tropic](https://docs.google.com/document/d/e/2PACX-1vQdIL248kwyp6G4VVMjbVTErWQpGckdtidefTsF9CpPDTpfox0sF44p8vTOcG97lmOXZQtnAC0-FFvl/pub)"> aqui </a></p>
+<p align="left"> <a href ="[https://github.com/ryo-ma/github-profile-tropic](https://docs.google.com/document/d/e/2PACX-1vQdIL248kwyp6G4VVMjbVTErWQpGckdtidefTsF9CpPDTpfox0sF44p8vTOcG97lmOXZQtnAC0-FFvl/pub)">📄 Mi CV</a></p>
 
 <br/>  
 
