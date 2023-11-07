@@ -12,6 +12,9 @@
 <p align="left">Todos mis proyectos están disponibles <a href ="https://github.com/ryo-ma/github-profile-tropic"> aqui</a></p>
 
 <p align="left"> <a href ="https://docs.google.com/document/d/e/2PACX-1vQdIL248kwyp6G4VVMjbVTErWQpGckdtidefTsF9CpPDTpfox0sF44p8vTOcG97lmOXZQtnAC0-FFvl/pub">📄 Mi CV</a></p>
+<p align="left">Mi correo electronico para contactarte: fgarciamatar@gmail.com ></p>
+
+
 
 <br/>  
 
